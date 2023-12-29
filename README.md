@@ -15,11 +15,33 @@ This four-hour workshop will cover several R packages of interest to scientists 
 # Setup Instructions & Example Data
 
 
+# Goals
+
+
+
 
 # Outline
 
-
-
+  * Overview of AQP Suite of R Packages / Functionality
+  
+  * Soil Color
+  
+  * The `SoilProfileCollection`
+  
+  * Soil Profile Sketches
+  
+  * Operations on `SoilProfileCollection`
+  
+  * Aggregation
+  
+  * Numerical Classification
+  
+  * Special Functions
+  
+  * soilDB
+  
+  * sharpshootR
+  
 
 
 # Additional Resources
