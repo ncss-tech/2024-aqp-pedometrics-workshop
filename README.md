@@ -20,6 +20,8 @@ This four-hour workshop will cover several R packages of interest to scientists 
 
 
 
+
+
 # Outline
 
   * Overview of AQP Suite of R Packages / Functionality
@@ -45,6 +47,14 @@ This four-hour workshop will cover several R packages of interest to scientists 
 
 
 # Additional Resources
+
+  * 2023-DSM-practicioners-AQP Presentation
+  * 2023-SSSA-AgHackathon
+  * 2023-NCSS
+  * 2017-Pedometrics
+  * 2012_soil-taxonomy
+  * 2011_Pedometrics-AQP
+
 
 
 # Acknowledgements
